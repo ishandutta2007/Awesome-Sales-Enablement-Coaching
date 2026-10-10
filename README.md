@@ -63,7 +63,7 @@ The commercial Sales Enablement and Coaching software landscape categorized by c
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted descending by **GitHub Star Count** 🌟. Click any star badge to view the repo's stargazers.
+Sorted descending by **GitHub Stars_Count** 🌟. Click any Stars_Badge to view the repo's stargazers.
 
 ### ⚡ Workflow & Automation
 
